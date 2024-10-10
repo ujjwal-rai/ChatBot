@@ -13,7 +13,7 @@ This repository implements a simple chatbot that leverages sentence embeddings a
 - `corpus.json` (Optional): A file containing an aggregated corpus of text data. This can be used if you prefer to process a larger set of utterances at once.
 
 The dataset used in this project is available for download here:
-[**Download Test Dataset**]([https://drive.google.com/drive/folders/1oMe132eTxh37Az8UDHZLk5F433j_SmS9?usp=sharing])
+[**Download Test Dataset**](https://drive.google.com/drive/folders/1oMe132eTxh37Az8UDHZLk5F433j_SmS9?usp=sharing)
 
 ## Requirements
 
